@@ -1,0 +1,16 @@
+Employee_ID,Department,Job_Role,Age,Experience_Years,Monthly_Salary,Performance_Score
+E001,IT,Python Developer,24,1,35000,7
+E002,IT,Software Engineer,27,3,50000,8
+E003,HR,HR Executive,25,2,32000,7
+E004,Finance,Financial Analyst,29,5,58000,9
+E005,IT,Data Analyst,26,3,47000,8
+E006,Sales,Sales Executive,23,1,28000,6
+E007,HR,Recruiter,28,4,42000,8
+E008,Finance,Accountant,31,7,65000,9
+E009,IT,Python Developer,25,2,40000,8
+E010,Sales,Sales Executive,26,3,35000,7
+E011,IT,Software Engineer,30,6,72000,9
+E012,HR,HR Executive,24,1,30000,6
+E013,Finance,Financial Analyst,27,4,52000,8
+E014,IT,Data Analyst,28,5,62000,9
+E015,Sales,Sales Manager,34,10,75000,9
